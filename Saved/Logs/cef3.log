@@ -1,0 +1,10 @@
+[2572:28916:0702/132729.094:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[2572:23696:0702/132729.372:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[2572:28916:0702/132729.514:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[2572:28916:0702/132740.828:ERROR:device_event_log_impl.cc(196)] [13:27:40.820] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 要素が見つかりません。 (0x490)
+[28364:8280:0702/132741.001:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-DD5FB511C68859670D92BD831478DDF4 will be ignored
+[2572:28916:0702/132745.374:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2572:28916:0702/132755.431:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2572:28916:0702/132845.785:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2572:28916:0702/132905.970:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2572:28916:0702/132942.230:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
