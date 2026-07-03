@@ -1,0 +1,9 @@
+[15724:16360:0703/172750.006:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15724:27348:0703/172750.373:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[15724:16360:0703/172750.554:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[8748:27812:0703/172804.226:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-6D11F9E2F156BD21D3B1C271FEF66C90 will be ignored
+[15724:16360:0703/172804.546:WARNING:frame_host_impl.cc(623)] virtual CefFrameHostImpl::SendProcessMessage sent to detached frame 5-6D11F9E2F156BD21D3B1C271FEF66C90 (main) will be ignored
+[15724:16360:0703/174732.534:ERROR:device_event_log_impl.cc(196)] [17:47:32.143] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 要素が見つかりません。 (0x490)
+[20360:27980:0703/181101.878:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-8F8A3D6AAEE343B078334795C741929C will be ignored
+[22308:14468:0703/181236.408:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame C-599FCB21C1C7F0A5696D1BE8C9D662E1 will be ignored
+[15724:16360:0703/184258.327:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
