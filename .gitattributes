@@ -1,12 +1,20 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.pak filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8111c6e320a923f646fc44fde66b6a407dd87e65
 Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
 .vs/
 .vscode/
+<<<<<<< HEAD
 .idea/
 *.uasset filter=lfs diff=lfs merge=lfs -text
 *.umap filter=lfs diff=lfs merge=lfs -text
+=======
+.idea/
+>>>>>>> 8111c6e320a923f646fc44fde66b6a407dd87e65
